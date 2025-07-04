@@ -18,6 +18,3 @@ This project uses an Azure Logic App and GitHub Actions to automatically shut do
 1. Upload to GitHub
 2. Add required secrets
 3. Push to `main` → Auto deploys via CI/CD
-
-## 📸 Screenshots
-_Include any screen captures here (Logic App designer, success logs, etc.)_
